@@ -1,2 +1,2 @@
-# selenium_project_structure
-A structure for a Selenium project
+# Selenium Page Object Model Example
+This project provides a structured example of how to use Selenium with the Page Object Model (POM) in Python. The Page Object Model is a design pattern that creates an object repository for web UI elements, making tests more maintainable and reusable.
